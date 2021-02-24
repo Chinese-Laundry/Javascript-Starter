@@ -1,6 +1,6 @@
 {
   "root": true,
-  "parser": "eslint/parser",
+  "parser": "babel-eslint",
   "plugins": [
     "prettier",
     "jest"
