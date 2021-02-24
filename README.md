@@ -1,5 +1,5 @@
 # Chinese Laundry JavaScript Starter | 2021
-> A starter JavaScript template for any and all projects, builds or libraries related to Chinese Laundry. This
+> A JavaScript starter template for any and all projects, builds or libraries related to Chinese Laundry. This
 > includes `jest` for testing, `eslint` and `prettier` for formatting, `nodemon` for live development
 > and watchers for live testing and hot reloading.
 > ___
