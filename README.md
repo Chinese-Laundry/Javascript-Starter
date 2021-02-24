@@ -31,8 +31,8 @@
  - Format your code using prettier
    - `npm run prettier:run`
 
- - Format your code in watch mode, waiting for file changes
-   - `npm run prettier:watch`
+ - Check your source files to see if they abide the prettier rules 
+   - `npm run prettier:check`
 
  - Generate documentation for everything located in `src/libs`
    - `npm run docs:generate`
