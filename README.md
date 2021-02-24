@@ -3,6 +3,7 @@
 > includes `jest` for testing, `eslint` and `prettier` for formatting, `nodemon` for live development
 > and watchers for live testing and hot reloading.
 > ___
+- Check out the Typescript variant of this repo [here](https://github.com/Chinese-Laundry/Typescript-Starter)
 
 ## Features
 |   Library/Feature  |   Version   |                  NPM/Source URL               |
